@@ -18,3 +18,4 @@ SELECT
 FROM ranked_orders
 WHERE order_rank <= 2
 ORDER BY customer_name, order_rank;
+
